@@ -23,7 +23,7 @@
 --selection-color: #8f2809;
 --custom-text-header:#ffffff;
 --custom-text-header-shadow:#ffffff;
---custom-text-header-animation: none;
+--custom-text-header-animation: textflicker;
 --input-font: 'Share Tech Mono', monospace;
 --text-font: 'Share Tech Mono', monospace;
 --loginbox-background-color: transparent;
