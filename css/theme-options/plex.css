@@ -14,7 +14,7 @@
     --color-alpha: #fff !important;
     --overlay-bg-color: rgba(0, 0, 0, 0) !important;
 
-    background-image: url(../resources/preset-light2.png);
+    background-image: url(../../resources/preset-light2.png);
     
     background-repeat: no-repeat;
     background-position: center top;
